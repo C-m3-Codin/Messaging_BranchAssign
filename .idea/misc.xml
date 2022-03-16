@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/cp/AndroidJava/Test1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/cp/AndroidJava/Test1/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.2703125" />
+        <entry key="..\:/cp/AndroidJava/Test1/app/src/main/res/drawable/ic_baseline_security_24.xml" value="0.2703125" />
+        <entry key="..\:/cp/AndroidJava/Test1/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/cp/AndroidJava/Test1/app/src/main/res/layout/activity_dm_message.xml" value="0.2269021739130435" />
+        <entry key="..\:/cp/AndroidJava/Test1/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/cp/AndroidJava/Test1/app/src/main/res/layout/activity_message_home.xml" value="0.1" />
+        <entry key="..\:/cp/AndroidJava/Test1/app/src/main/res/layout/dm_message_agent.xml" value="0.29683698296836986" />
+        <entry key="..\:/cp/AndroidJava/Test1/app/src/main/res/layout/dm_message_client.xml" value="0.22282608695652173" />
+        <entry key="..\:/cp/AndroidJava/Test1/app/src/main/res/layout/each_message_dm.xml" value="0.22282608695652173" />
+        <entry key="..\:/cp/AndroidJava/Test1/app/src/main/res/layout/list_item.xml" value="0.2" />
+        <entry key="..\:/cp/AndroidJava/Test1/app/src/main/res/layout/listitem.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
